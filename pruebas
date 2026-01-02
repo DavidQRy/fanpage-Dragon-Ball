@@ -1,0 +1,56 @@
+
+	<div class="Imagenes">
+		
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/1e/8f/2b/1e8f2bbe8fa2aaad300dcfce9a75efdc.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/25/6f/44/256f445fec4f2cbb357af1f9c8ee91a7.jpg" width="250px">
+		</div>
+
+		
+
+		<div class="box">
+			<img src="https://i.pinimg.com/564x/07/0f/e7/070fe790c755fa72389cbf29b398445b.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/60/1b/90/601b90e64e522854e663d5a31d8b1ba0.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/f2/7c/b2/f27cb226627d8d7725bf43aa63d24210.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/0f/2f/a3/0f2fa3b21552fdfbd3e6688f9fbb39ed.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/c8/c1/ce/c8c1ce1867e345971fd24ccfed9f1c8f.jpg" width="250px">
+		</div>
+
+		<div class="box">
+			<img src="https://i.pinimg.com/236x/6c/6b/df/6c6bdfa49fe9d00c178e738a4149b7b7.jpg"  width="250px">
+		</div>
+
+	</div>
+
+	<section class="image-gallery">
+        <h2>Galería de Imágenes</h2>
+        <div class="gallery">
+            <div class="gallery-item">
+                <img src="https://i.pinimg.com/236x/1e/8f/2b/1e8f2bbe8fa2aaad300dcfce9a75efdc.jpg" alt="Descripción de la imagen 1">
+            </div>
+            <div class="gallery-item">
+                <img src="https://i.pinimg.com/236x/60/1b/90/601b90e64e522854e663d5a31d8b1ba0.jpg" alt="Descripción de la imagen 2">
+            </div>
+            <div class="gallery-item">
+                <img src="https://i.pinimg.com/236x/0f/2f/a3/0f2fa3b21552fdfbd3e6688f9fbb39ed.jpg" alt="Descripción de la imagen 3">
+            </div>
+            <div class="gallery-item">
+                <img src="https://i.pinimg.com/236x/6c/6b/df/6c6bdfa49fe9d00c178e738a4149b7b7.jpg" alt="Descripción de la imagen 4">
+            </div>
+        </div>
+    </section>
